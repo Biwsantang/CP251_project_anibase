@@ -1,0 +1,3 @@
+img[adult="1"] {
+    filter: blur(0.4rem);
+}
